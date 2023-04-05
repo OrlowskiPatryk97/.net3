@@ -1,0 +1,16 @@
+﻿@page
+@model FizzBuzzWeb.Pages.SavedInSessionModel
+@{
+    ViewData["Title"] = "Data in session";
+}
+<p>Dane w zapisane w sesji</p>
+@if (Model.numbers != null)
+{
+    <p>
+
+        @foreach (var number in Model.numbers)
+        {
+            <li>@number</li>
+        }
+    </p>
+}
