@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FizzBuzzWeb
 build_property.RootNamespace = FizzBuzzWeb
-build_property.ProjectDir = C:\Users\MatAdmin\source\repos\.net2\
+build_property.ProjectDir = C:\Users\MatAdmin\source\repos\.net4\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\MatAdmin\source\repos\.net2
+build_property.MSBuildProjectDirectory = C:\Users\MatAdmin\source\repos\.net4
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/MatAdmin/source/repos/.net2/Pages/Error.cshtml]
+[C:/Users/MatAdmin/source/repos/.net4/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MatAdmin/source/repos/.net2/Pages/Index.cshtml]
+[C:/Users/MatAdmin/source/repos/.net4/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MatAdmin/source/repos/.net2/Pages/Privacy.cshtml]
+[C:/Users/MatAdmin/source/repos/.net4/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MatAdmin/source/repos/.net2/Pages/SavedInSession.cshtml]
+[C:/Users/MatAdmin/source/repos/.net4/Pages/SavedInSession.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2F2ZWRJblNlc3Npb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MatAdmin/source/repos/.net2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/MatAdmin/source/repos/.net4/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MatAdmin/source/repos/.net2/Pages/_ViewImports.cshtml]
+[C:/Users/MatAdmin/source/repos/.net4/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MatAdmin/source/repos/.net2/Pages/_ViewStart.cshtml]
+[C:/Users/MatAdmin/source/repos/.net4/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MatAdmin/source/repos/.net2/Pages/Shared/_Layout.cshtml]
+[C:/Users/MatAdmin/source/repos/.net4/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-adg70wl9nv

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MatAdmin\\source\\repos\\.net2\\FizzBuzzWeb.csproj": {}
+    "C:\\Users\\MatAdmin\\source\\repos\\.net4\\FizzBuzzWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MatAdmin\\source\\repos\\.net2\\FizzBuzzWeb.csproj": {
+    "C:\\Users\\MatAdmin\\source\\repos\\.net4\\FizzBuzzWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MatAdmin\\source\\repos\\.net2\\FizzBuzzWeb.csproj",
+        "projectUniqueName": "C:\\Users\\MatAdmin\\source\\repos\\.net4\\FizzBuzzWeb.csproj",
         "projectName": "FizzBuzzWeb",
-        "projectPath": "C:\\Users\\MatAdmin\\source\\repos\\.net2\\FizzBuzzWeb.csproj",
+        "projectPath": "C:\\Users\\MatAdmin\\source\\repos\\.net4\\FizzBuzzWeb.csproj",
         "packagesPath": "C:\\Users\\MatAdmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MatAdmin\\source\\repos\\.net2\\obj\\",
+        "outputPath": "C:\\Users\\MatAdmin\\source\\repos\\.net4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MatAdmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,26 @@
             "Microsoft.AspNetCore.Session": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
